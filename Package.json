@@ -1,0 +1,16 @@
+{
+  "name": "bot-whatsapp-237",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp pro Cameroun 🇨🇲 avec pairing code et commandes",
+  "type": "module",
+  "main": "Bot.js",
+  "scripts": {
+    "start": "node Bot.js"
+  },
+  "author": "Rodrigue",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^5.0.2",
+    "fs": "^0.0.1-security"
+  }
+}
